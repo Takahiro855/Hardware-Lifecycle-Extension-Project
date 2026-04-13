@@ -48,7 +48,7 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 # Step: 2 Before changing storage disk make sure to backup your files
 Here in my case i used External SSD to backup my files.
 
-
+![Summary Page](Diagnostics/00%20Backup%20Files.jpg)
 
 
 ### Phase 2: Hardware Troubleshooting
