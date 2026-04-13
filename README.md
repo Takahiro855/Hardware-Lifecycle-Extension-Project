@@ -38,8 +38,10 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 ### Phase 1: Files Back up / Diagnosing System Issue
 
-# Step: 1 Task Manager shows 100% Disk Usage which shows HDD is degraded overtime and the battery is no longer detected 
-* It also shows the hard disk drive has plenty of storage left.
+# Step: 1 Task Manager shows 100% Disk Usage 
+* The system is experiencing a performance bottleneck, characterized by significant latency in web browsing and application response times, independent of available disk storage.
+* Despite ample free disk space, the user interface remains unresponsive and slow
+
 
 ![Summary Page](Diagnostics/01%20Battery%20Not%20Detected.jpg)
 
