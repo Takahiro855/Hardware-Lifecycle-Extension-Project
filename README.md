@@ -1,8 +1,16 @@
 # Legacy Laptop Modernization & Performance Restoration
+
+
+
 Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and Battery degradation.
 
-# Overview
+# Laptop Model & Specs
+Acer Aspire E5-575G
+* Processor: Intel Core i3-6100U (Dual-core, 2.30 GHz)
+* Original RAM: 4 GB DDR4-2133 MHz
+* Original Storage: 500 GB (5400 RPM mechanical drive)
 
+# Overview
 <details>
 * This project involved the diagnostic troubleshooting and hardware overhaul of a 9-year-old "legacy" laptop. 
 * The primary goal was to resolve severe performance bottleneck, Battery replacement and extend the machine's functional lifespan. 
@@ -39,8 +47,27 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 ### Phase 2: Hardware Troubleshooting
 
-# Step: 1 Removing Screws
+# Tools used for this Project
 
+* Multi-bit Precision Screwdriver
+* Plastic Spudger (Prying Tool)
+* Opening Picks (Plectrums)
+* Small Precision Screwdriver
+
+![Alt Text](Hardware/Tools.jpg)
+  
+
+# Step: 1 Removing screws on the back case
+
+![Summary Page](Hardware/02%20Removing%20Screws.jpg)
+
+# Step: 2 Case on HDD and Ram slots are exposed
+
+![Summary Page](Hardware/03%20Exposed%20HDD%20and%20RAM.jpg)
+
+# Step: 3 Ram slot shows it only has 4gb inside.
+
+![Summary Page](Hardware/04%20Ram%20with%204GB.jpg)
 
 
 
