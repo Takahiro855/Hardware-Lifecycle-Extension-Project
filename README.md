@@ -26,4 +26,8 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 # Lab Walkthrough
 
-![Summary Page](01%20Disk%20Space.jpg)
+### Phase 1 Troubleshooting system constraints
+
+## Step: 1 
+
+![Summary Page](Diagnostics/01%20Disk%20Space.jpg)
