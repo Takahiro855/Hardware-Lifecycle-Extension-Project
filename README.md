@@ -128,4 +128,14 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 ​Environmental Impact: Extended the hardware lifecycle by 3–5 years, reducing e-waste through component-level restoration rather than replacement.
 
 
+​Technical & System Restoration
+​Performance Optimization: Mastered identifying and resolving hardware bottlenecks, specifically the transition from mechanical (HDD) to flash-based (SSD) storage.
+​Memory Management: Gained hands-on experience in expanding system volatile memory and understanding the performance impact of multi-channel RAM configurations.
+​OS Deployment & Provisioning: Successfully executed a clean Windows 10 installation using bootable media (Rufus), including driver initialization and BIOS/UEFI configuration.
+​Hardware Engineering & Safety
+​Precision Maintenance: Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
+​ESD Compliance: Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
+​Strategic IT Management
+​Hardware Lifecycle Extension: Demonstrated the ability to evaluate "legacy" assets and implement cost-effective upgrades to delay hardware retirement and reduce e-waste.
+​Troubleshooting Methodology: Applied a systematic approach—from initial diagnostic (identifying 100% disk usage) to final verification and performance testing.
 
