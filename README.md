@@ -36,7 +36,7 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 # Lab Walkthrough
 
-### Phase 1: Diagnosing System Issues
+### Phase 1: Files Back up / Diagnosing System Issue
 
 # Step: 1 Task Manager shows 100% Disk Usage which shows HDD is degraded overtime and the battery is no longer detected 
 * It also shows the hard disk drive has plenty of storage left.
@@ -44,6 +44,10 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 ![Summary Page](Diagnostics/01%20Battery%20Not%20Detected.jpg)
 
 ![Summary Page](Diagnostics/01%20Disk%20Space.jpg)
+
+# Step: 2 Before changing storage disk make sure to backup your files
+Here in my case i used External SSD to backup my files.
+
 
 
 
@@ -119,23 +123,26 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 ![Summary Page](Diagnostics/14%2012GB%20Ram.jpg)
 
+​# Security & Compliance
+​* Data Preservation: Retained the original HDD as a secure offline backup, ensuring no data loss during the transition to SSD.
+​* Software Integrity: Performed a clean OS installation using official Windows 10 media with Secure Boot enabled to prevent unauthorized bootloaders.
+​* Safety Standards: Adhered to ESD (Electrostatic Discharge) protocols during disassembly to protect internal circuitry from static damage.
+​* Environmental Impact: Extended the hardware lifecycle by 3–5 years, reducing e-waste through component-level restoration rather than replacement.
 
-
-​Security & Compliance
-​Data Preservation: Retained the original HDD as a secure offline backup, ensuring no data loss during the transition to SSD.
-​Software Integrity: Performed a clean OS installation using official Windows 10 media with Secure Boot enabled to prevent unauthorized bootloaders.
-​Safety Standards: Adhered to ESD (Electrostatic Discharge) protocols during disassembly to protect internal circuitry from static damage.
-​Environmental Impact: Extended the hardware lifecycle by 3–5 years, reducing e-waste through component-level restoration rather than replacement.
-
-
-​Technical & System Restoration
-​Performance Optimization: Mastered identifying and resolving hardware bottlenecks, specifically the transition from mechanical (HDD) to flash-based (SSD) storage.
-​Memory Management: Gained hands-on experience in expanding system volatile memory and understanding the performance impact of multi-channel RAM configurations.
-​OS Deployment & Provisioning: Successfully executed a clean Windows 10 installation using bootable media (Rufus), including driver initialization and BIOS/UEFI configuration.
-​Hardware Engineering & Safety
-​Precision Maintenance: Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
-​ESD Compliance: Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
+# Technical & System Restoration
+​* Identifying and resolving hardware bottlenecks, specifically the transition from mechanical (HDD) to flash-based (SSD) storage.
+​* Gained hands-on experience in expanding system volatile memory and understanding the performance impact of multi-channel RAM configurations.
+​* Successfully executed a clean Windows 10 installation using bootable media (Rufus), including driver initialization and BIOS/UEFI configuration.
+​
+# Hardware Engineering & Safety
+​* Precision Maintenance: Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
+​* ESD Compliance: Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
 ​Strategic IT Management
-​Hardware Lifecycle Extension: Demonstrated the ability to evaluate "legacy" assets and implement cost-effective upgrades to delay hardware retirement and reduce e-waste.
-​Troubleshooting Methodology: Applied a systematic approach—from initial diagnostic (identifying 100% disk usage) to final verification and performance testing.
+​* Hardware Lifecycle Extension: Demonstrated the ability to evaluate "legacy" assets and implement cost-effective upgrades to delay hardware retirement and reduce e-waste.
+​* Troubleshooting Methodology: Applied a systematic approach—from initial diagnostic (identifying 100% disk usage) to final verification and performance testing.
 
+# Relevant for roles such as
+
+* IT Support Technician
+* Desktop Support
+* Jr System Administrator
