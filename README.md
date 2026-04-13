@@ -26,8 +26,25 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 # Lab Walkthrough
 
-### Phase 1 Troubleshooting system constraints
+### Phase 1: Diagnosing System Issues
 
-## Step: 1 
+# Step: 1 Task Manager shows 100% Disk Usage which shows HDD is degraded overtime and the battery is no longer detected 
+* It also shows the hard disk drive has plenty of storage left.
+
+![Summary Page](Diagnostics/01%20Battery%20Not%20Detected.jpg)
 
 ![Summary Page](Diagnostics/01%20Disk%20Space.jpg)
+
+
+
+### Phase 2: Hardware Troubleshooting
+
+# Step: 1 Removing Screws
+
+
+
+
+
+
+
+
