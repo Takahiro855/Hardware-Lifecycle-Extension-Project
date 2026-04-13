@@ -25,3 +25,5 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 </details>
 
 # Lab Walkthrough
+
+![Summary Page](01%20Disk%20Space.jpg)
