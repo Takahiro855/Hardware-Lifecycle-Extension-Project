@@ -1,7 +1,5 @@
 # Legacy Laptop Modernization & Performance Restoration
 
-
-
 Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and Battery degradation.
 
 # Laptop Model & Specs
@@ -77,7 +75,8 @@ Here in my case i used External SSD to backup my files.
 
 ![Summary Page](Hardware/04%20Ram%20with%204GB.jpg)
 
-# Step: 4 Placing both 4gb ram and 8gb ram.
+# Step: 4 Placing both 4gb ram and 8gb ram. 
+Checked the compatibility of rams and confirmed it is both DDR4
 
 ![Summary Page](Hardware/05%20Placing%20the%208GB%20Ram.jpg)
 
@@ -125,7 +124,14 @@ Here in my case i used External SSD to backup my files.
 
 ![Summary Page](Diagnostics/14%2012GB%20Ram.jpg)
 
-​# Security & Compliance
+# Results of 
+* Improved the laptop's storage from 500gb HDD to 500gb SSD resulting in faster boot ups and faster navigation of files.
+*​ Upgraded ram capacity from 4gb ddr4 to 12gb
+* Replaced depleted old battery to a brand new battery
+* User feedback has confirmed that the previous sluggishness and input lags have been completely resolved.
+* Cost of upgrades worth 142$ in total for all the parts replaced.
+
+# Security & Compliance
 ​* Data Preservation: Retained the original HDD as a secure offline backup, ensuring no data loss during the transition to SSD.
 ​* Software Integrity: Performed a clean OS installation using official Windows 10 media with Secure Boot enabled to prevent unauthorized bootloaders.
 ​* Safety Standards: Adhered to ESD (Electrostatic Discharge) protocols during disassembly to protect internal circuitry from static damage.
@@ -139,11 +145,9 @@ Here in my case i used External SSD to backup my files.
 # Hardware Engineering & Safety
 ​* Precision Maintenance: Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
 ​* ESD Compliance: Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
-​Strategic IT Management
-​* Hardware Lifecycle Extension: Demonstrated the ability to evaluate "legacy" assets and implement cost-effective upgrades to delay hardware retirement and reduce e-waste.
-​* Troubleshooting Methodology: Applied a systematic approach—from initial diagnostic (identifying 100% disk usage) to final verification and performance testing.
+​
 
-# Relevant for roles such as
+# Relevant for roles such as:
 
 * IT Support Technician
 * Desktop Support
