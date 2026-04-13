@@ -121,7 +121,11 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 
 
-
+​Security & Compliance
+​Data Preservation: Retained the original HDD as a secure offline backup, ensuring no data loss during the transition to SSD.
+​Software Integrity: Performed a clean OS installation using official Windows 10 media with Secure Boot enabled to prevent unauthorized bootloaders.
+​Safety Standards: Adhered to ESD (Electrostatic Discharge) protocols during disassembly to protect internal circuitry from static damage.
+​Environmental Impact: Extended the hardware lifecycle by 3–5 years, reducing e-waste through component-level restoration rather than replacement.
 
 
 
