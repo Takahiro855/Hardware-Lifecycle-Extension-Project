@@ -93,6 +93,31 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 ### Phase 3: Internal Diagnostics
 
+# Step: 1 Checking Bios if SSD was detected 
+
+![Summary Page](Diagnostics/10%20Bios%20Detects%20SSD.jpg)
+
+# Step: 2 Searching for bootloader
+
+![Summary Page](Diagnostics/10%20Laptop%20Turns%20On.jpg)
+
+# Step: 3 Downloaded Win 10.iso in another pc and created a boot loader in an External USB
+
+![Summary Page](Diagnostics/10%20Boot%20Loader.jpg)
+
+# Step: 4 Windows 10 Operating System Deployment
+
+![Summary Page](Diagnostics/12%20Installing%20Windows.jpg)
+
+# Phase 4: Final Implementation & Results
+
+# Step: 1 Checking the battery.
+
+![Summary Page](Diagnostics/13%20Battery%20Detected.jpg)
+
+# Step: 2
+
+![Summary Page](Diagnostics/14%2012GB%20Ram.jpg)
 
 
 
