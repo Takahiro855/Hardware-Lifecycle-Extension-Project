@@ -5,7 +5,8 @@
 Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and Battery degradation.
 
 # Laptop Model & Specs
-Acer Aspire E5-575G
+
+## Acer Aspire E5-575G (2016 model)
 * Processor: Intel Core i3-6100U (Dual-core, 2.30 GHz)
 * Original RAM: 4 GB DDR4-2133 MHz
 * Original Storage: 500 GB (5400 RPM mechanical drive)
@@ -69,6 +70,29 @@ Acer Aspire E5-575G
 # Step: 3 Ram slot shows it only has 4gb inside.
 
 ![Summary Page](Hardware/04%20Ram%20with%204GB.jpg)
+
+# Step: 4 Placing both 4gb ram and 8gb ram.
+
+![Summary Page](Hardware/05%20Placing%20the%208GB%20Ram.jpg)
+
+# Step: 5 Replacing the Hard Disk Drive with Solid State Drive
+
+![Summary Page](Hardware/06%20Replacing%20HDD%20with%20SSD.jpg)
+
+# Step: 6 New SSD and Ram Slots are inserted into the board.
+
+![Summary Page](Hardware/07%20Ram%20and%20SSD%20Replaced.jpg)
+
+# Step: 7 Replacing Internal Battery
+
+![Summary Page](Hardware/08%20Replacing%20Battery.jpg)
+
+# Step: 8 Testing if the new battery will power on the laptop and it worked.
+
+![Summary Page](Hardware/09%20Test%20Run.jpg)
+
+### Phase 3: Internal Diagnostics
+
 
 
 
