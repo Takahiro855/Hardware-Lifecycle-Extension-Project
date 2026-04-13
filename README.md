@@ -11,10 +11,11 @@ Acer Aspire E5-575G
 * Original Storage: 500 GB (5400 RPM mechanical drive)
 
 # Overview
-<details>
+
 * This project involved the diagnostic troubleshooting and hardware overhaul of a 9-year-old "legacy" laptop. 
 * The primary goal was to resolve severe performance bottleneck, Battery replacement and extend the machine's functional lifespan. 
 * By performing a clean installation of Windows 10 onto a Solid State Drive and upgrading the ram triple it's size.
+
 
 # Skills demonstrated in this project
 
@@ -30,7 +31,7 @@ Acer Aspire E5-575G
 * OS Deployment: Primarily used RUFUS to create "bootable media" into the USB and performed a clean installation of Windows 10.
 * Driver Management: Confirmed the laptop was running smoothly by updating the system and checking that all new parts were working perfectly with Windows
 * Demonstrated sustainability skills by repairing a "legacy" unit instead of contributing to e-waste by buying a new one.
-</details>
+
 
 # Lab Walkthrough
 
