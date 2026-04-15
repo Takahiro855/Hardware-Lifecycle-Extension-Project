@@ -146,8 +146,8 @@ Checked the compatibility of rams and confirmed it is both DDR4.
 ​
 # Hardware Engineering & Safety
 
-​* Precision Maintenance: Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
-​* ESD Compliance: Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
+​* Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
+​* Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
 ​
 
 # Relevant for roles such as:
