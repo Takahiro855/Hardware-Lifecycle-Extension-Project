@@ -22,13 +22,13 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 * Component Level Troubleshooting: Identified the "bottleneck" (HDD) and selected the correct parts (SSD/RAM) to fix it.
 * Precision Disassembly: Utilized specialized tools to open a chassis without breaking plastic clips or stripping screws.
 * ESD (Electrostatic Discharge) Safety: Handled sensitive "green board" components and RAM chips correctly to avoid frying them with static.
-* Hardware Interfacing: Executed precise installation of SATA-based solid-state storage and matched-pair DDR4 RAM modules for maximum performance
+* Hardware Interfacing: Executed precise installation of SATA-based solid-state storage and matched-pair DDR4 RAM modules for maximum performance.
 * Power Management: Swapped an internal battery, which involves managing delicate motherboard ribbon cables.
   
 # Systems & Software Skills
-* BIOS/UEFI Configuration: Managed BIOS/UEFI parameters to optimize the boot sequence and facilitate installation from external recovery media
+* BIOS/UEFI Configuration: Managed BIOS/UEFI parameters to optimize the boot sequence and facilitate installation from external recovery media.
 * OS Deployment: Primarily used RUFUS to create "bootable media" into the USB and performed a clean installation of Windows 10.
-* Driver Management: Confirmed the laptop was running smoothly by updating the system and checking that all new parts were working perfectly with Windows
+* Driver Management: Confirmed the laptop was running smoothly by updating the system and checking that all new parts were working perfectly with Windows.
 * Demonstrated sustainability skills by repairing a "legacy" unit instead of contributing to e-waste by buying a new one.
 
 
@@ -38,7 +38,7 @@ Optimizing systems by resolving Disk Overutilization, Hardware Bottlenecks, and 
 
 # Step: 1 Task Manager shows 100% Disk Usage 
 * The system is experiencing a performance bottleneck, characterized by significant latency in web browsing and application response times, independent of available disk storage.
-* Despite ample free disk space, the user interface remains unresponsive and slow
+* Despite ample free disk space, the user interface remains unresponsive and slow.
 
 
 ![Summary Page](Diagnostics/01%20Battery%20Not%20Detected.jpg)
@@ -76,7 +76,7 @@ Here in my case i used External SSD to backup my files.
 ![Summary Page](Hardware/04%20Ram%20with%204GB.jpg)
 
 # Step: 4 Placing both 4gb ram and 8gb ram. 
-Checked the compatibility of rams and confirmed it is both DDR4
+Checked the compatibility of rams and confirmed it is both DDR4.
 
 ![Summary Page](Hardware/05%20Placing%20the%208GB%20Ram.jpg)
 
@@ -108,7 +108,7 @@ Checked the compatibility of rams and confirmed it is both DDR4
 
 # Step: 3 Downloaded Win 10.iso in another pc and created a boot loader in an External USB
 
-![Summary Page](Diagnostics/10%20Boot%20Loader.jpg)
+![Summary Page](Diagnostics/10%20Boot%20Loader.png)
 
 # Step: 4 Windows 10 Operating System Deployment
 
