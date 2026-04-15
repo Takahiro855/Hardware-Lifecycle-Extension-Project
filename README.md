@@ -124,27 +124,24 @@ Checked the compatibility of rams and confirmed it is both DDR4.
 
 ![Summary Page](Diagnostics/14%2012GB%20Ram.jpg)
 
-# Project Results.
+# Project Results
 * Improved the laptop's storage from 500gb HDD to 500gb SSD resulting in faster boot ups and faster navigation of files.
 * Upgraded 4gb ram into 12gb ram to be able to perform daily tasks
 * User feedback has confirmed that the previous sluggishness and input lags have been completely resolved.
 * Cost of upgrades worth 142$ in total for all the parts replaced.
 
 # Security & Compliance
-
 ​* Retained the original HDD as a secure offline backup, ensuring no data loss during the transition to SSD.
 ​* Performed a clean OS installation using official Windows 10 media with Secure Boot enabled to prevent unauthorized bootloaders.
 ​* Adhered to ESD (Electrostatic Discharge) protocols during disassembly to protect internal circuitry from static damage.
 ​* Extended the hardware lifecycle by 3–5 years, reducing e-waste through component-level restoration rather than replacement.
 
 # Technical & System Restoration
-
 ​* Identifying and resolving hardware bottlenecks, specifically the transition from mechanical (HDD) to flash-based (SSD) storage.
 ​* Gained hands-on experience in expanding system volatile memory and understanding the performance impact of multi-channel RAM configurations.
 ​* Successfully executed a clean Windows 10 installation using bootable media (Rufus), including driver initialization and BIOS/UEFI configuration.
 ​
 # Hardware Engineering & Safety
-
 ​* Developed skills in non-destructive disassembly and internal component replacement (Battery/SSD/RAM) within compact laptop chassis.
 ​* Applied professional Electrostatic Discharge safety standards to prevent latent damage to sensitive motherboard circuitry.
 ​
